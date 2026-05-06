@@ -79,3 +79,97 @@
 2026-05-06 14:43:40 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
 2026-05-06 14:43:41 [INFO]: [FETCH] Processed 20 items. Added 7 new notifications. 
 2026-05-06 14:43:45 [INFO]: [SERVER] Shutting down gracefully... 
+2026-05-06 14:46:18 [INFO]: [SERVER] Server running on port 3000 
+2026-05-06 14:46:18 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 14:46:18 [INFO]: [SERVICE] Started notification polling every 30000ms 
+2026-05-06 14:46:19 [INFO]: [FETCH] Processed 20 items. Added 20 new notifications. 
+2026-05-06 14:46:48 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 14:46:49 [INFO]: [FETCH] Processed 20 items. Added 8 new notifications. 
+2026-05-06 14:47:18 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 14:47:18 [INFO]: [FETCH] Processed 20 items. Added 7 new notifications. 
+2026-05-06 14:47:48 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 14:47:48 [INFO]: [FETCH] Processed 20 items. Added 8 new notifications. 
+2026-05-06 14:48:18 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 14:48:18 [INFO]: [FETCH] Processed 20 items. Added 7 new notifications. 
+2026-05-06 14:48:48 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 14:48:48 [INFO]: [FETCH] Processed 20 items. Added 8 new notifications. 
+2026-05-06 14:49:18 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 14:49:18 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 14:49:48 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 14:49:48 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 14:50:18 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 14:50:18 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 14:50:48 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 14:50:49 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 14:51:18 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 14:51:18 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 14:51:48 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 14:51:49 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 14:52:18 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 14:52:19 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 14:52:48 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 14:52:49 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 14:53:18 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 14:53:19 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 14:53:48 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 14:53:49 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 14:54:18 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 14:54:19 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 14:54:48 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 14:54:49 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 14:55:18 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 14:55:19 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 14:55:48 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 14:55:49 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 14:56:18 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 14:56:19 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 14:56:48 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 14:56:49 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 14:57:18 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 14:57:19 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 14:57:48 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 14:57:49 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 14:58:18 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 14:58:19 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 14:58:48 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 14:58:49 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 14:59:18 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 14:59:19 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 14:59:48 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 14:59:49 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 15:00:18 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 15:00:19 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 15:00:48 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 15:00:49 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 15:01:18 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 15:01:19 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 15:01:48 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 15:01:49 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 15:02:18 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 15:02:19 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 15:02:48 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 15:02:49 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 15:03:18 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 15:03:19 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 15:03:48 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 15:03:49 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 15:04:18 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 15:04:19 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 15:04:48 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 15:04:49 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 15:05:18 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 15:05:20 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 15:05:48 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 15:05:49 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 15:06:18 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 15:06:19 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 15:06:48 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 15:06:49 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 15:07:18 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 15:07:19 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 15:07:48 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 15:07:50 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 15:08:18 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 15:08:22 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 15:08:48 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 15:08:55 [INFO]: [SERVER] Shutting down gracefully... 
