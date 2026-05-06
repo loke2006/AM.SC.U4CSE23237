@@ -1,0 +1,27 @@
+{
+  "name": "am.sc.u4cse23237",
+  "version": "1.0.0",
+  "description": "frontend needed things \r [https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?usp=sharing\r ](https://docs.google.com/document/d/1uZOwce9m06g58T2AYOpLExKr1HnP6zBbA8_BdLs8XgY/edit?usp=sharing)\r see this imp\r https://docs.google.com/document/d/1GA7godnyXIn5Fl9WJ71eIVSY3Z9f9SPb2F2Ffq58PpU/edit?usp=sharing\r hellooo jiii",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loke2006/AM.SC.U4CSE23237.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/loke2006/AM.SC.U4CSE23237/issues"
+  },
+  "homepage": "https://github.com/loke2006/AM.SC.U4CSE23237#readme",
+  "dependencies": {
+    "axios": "^1.16.0",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "winston": "^3.19.0"
+  }
+}
