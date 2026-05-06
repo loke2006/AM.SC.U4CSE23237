@@ -14,8 +14,15 @@ class NotificationService {
 
   async fetchNotifications() {
     try {
+      const config = {};
+      if (process.env.API_TOKEN) {
+        config.headers = {
+          Authorization: `Bearer ${process.env.API_TOKEN}`
+        };
+      }
+      
       logger.info(`[FETCH] Fetching notifications from ${this.apiUrl}`);
-      const response = await axios.get(this.apiUrl);
+      const response = await axios.get(this.apiUrl, config);
       const notifications = response.data;
       
       let newCount = 0;
