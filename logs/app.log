@@ -173,3 +173,25 @@
 2026-05-06 15:08:22 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
 2026-05-06 15:08:48 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
 2026-05-06 15:08:55 [INFO]: [SERVER] Shutting down gracefully... 
+2026-05-06 15:54:15 [INFO]: [SERVER] Server running on port 3000 
+2026-05-06 15:54:15 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 15:54:15 [INFO]: [SERVICE] Started notification polling every 30000ms 
+2026-05-06 15:54:15 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 15:55:06 [INFO]: [SERVER] Server running on port 3000 
+2026-05-06 15:55:06 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 15:55:06 [INFO]: [SERVICE] Started notification polling every 30000ms 
+2026-05-06 15:55:06 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 15:55:36 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 15:55:36 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 15:56:06 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 15:56:06 [ERROR]: [FETCH ERROR] Failed to fetch notifications: Request failed with status code 401 
+2026-05-06 15:56:40 [INFO]: [SERVER] Server running on port 3000 
+2026-05-06 15:56:40 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 15:56:40 [INFO]: [SERVICE] Started notification polling every 30000ms 
+2026-05-06 15:56:40 [INFO]: [FETCH] Processed 20 items. Added 20 new notifications. 
+2026-05-06 15:57:10 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 15:57:10 [INFO]: [FETCH] Processed 20 items. Added 7 new notifications. 
+2026-05-06 15:57:40 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 15:57:40 [INFO]: [FETCH] Processed 20 items. Added 8 new notifications. 
+2026-05-06 15:58:10 [INFO]: [FETCH] Fetching notifications from http://20.207.122.201/evaluation-service/notifications 
+2026-05-06 15:58:10 [INFO]: [FETCH] Processed 20 items. Added 7 new notifications. 
