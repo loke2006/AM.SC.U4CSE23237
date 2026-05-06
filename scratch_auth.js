@@ -3,8 +3,8 @@ const axios = require('axios');
 async function getAuth() {
   try {
     const res = await axios.post('http://20.207.122.201/evaluation-service/auth', {
-      email: "shaik23237@student.amrita.edu",
-      name: "shaik",
+      email: "am.sc.u4cse23237@student.amrita.edu",
+      name: "loki",
       rollNo: "am.sc.u4cse23237",
       accessCode: "PTBMmQ",
       clientID: "0acfe1cf-b076-4ef2-9e32-09f5eddfd044",
