@@ -89,3 +89,15 @@ GET /health
   "timestamp": "2026-05-06T00:00:00.000Z"
 }
 ```
+
+## Frontend Application
+
+The frontend React application is located in `notification_app_fe`.
+
+### Setup
+```bash
+cd notification_app_fe
+npm install
+npm run dev
+```
+The frontend will run exclusively on `http://localhost:3000`.
