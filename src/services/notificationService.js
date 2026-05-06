@@ -23,7 +23,9 @@ class NotificationService {
       
       logger.info(`[FETCH] Fetching notifications from ${this.apiUrl}`);
       const response = await axios.get(this.apiUrl, config);
-      const notifications = response.data;
+      
+      // The API returns { notifications: [...] } instead of a direct array
+      const notifications = response.data.notifications || response.data;
       
       let newCount = 0;
 
