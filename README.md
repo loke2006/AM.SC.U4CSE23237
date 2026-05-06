@@ -101,3 +101,7 @@ npm install
 npm run dev
 ```
 The frontend will run exclusively on `http://localhost:3000`.
+
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/797a650f-2332-40f3-820e-e3b50db5baf9" />
+<img width="1918" height="1013" alt="image" src="https://github.com/user-attachments/assets/415f42e5-fd6f-47ee-8074-afc3d380f562" />
+
